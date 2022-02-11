@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>blog.cdecarlos.com/</loc>
+    <loc>https://blog.cdecarlos.com/</loc>
     <lastmod>2022-02-11T16:48:59+01:00</lastmod>
   </url><url>
-    <loc>blog.cdecarlos.com/posts/init/</loc>
+    <loc>https://blog.cdecarlos.com/posts/init/</loc>
     <lastmod>2022-02-11T16:48:59+01:00</lastmod>
   </url><url>
-    <loc>blog.cdecarlos.com/posts/</loc>
+    <loc>https://blog.cdecarlos.com/posts/</loc>
     <lastmod>2022-02-11T16:48:59+01:00</lastmod>
   </url><url>
-    <loc>blog.cdecarlos.com/categories/</loc>
+    <loc>https://blog.cdecarlos.com/categories/</loc>
   </url><url>
-    <loc>blog.cdecarlos.com/tags/</loc>
+    <loc>https://blog.cdecarlos.com/tags/</loc>
   </url>
 </urlset>
