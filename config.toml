@@ -1,3 +1,18 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'blog.cdecarlos.com'
+languageCode = 'es-ES'
+title = 'Blog cdecarlos.com'
+theme = "tale"
+defaultContentLanguage = "es"
+
+# googleAnalytics = "UA-133700000-0"
+
+[Author]
+  name = "cdecarlos.com"
+
+# [menu]
+#   [[menu.main]]
+#     identifier = "blog"
+#     name = "Blog"
+#     title = "Blog"
+#     url = "/"
+#     weight = 0
